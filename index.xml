@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Themes</title>
+    <link>https://sidmusa.github.io/wowmonkey/</link>
+    <description>Recent content on Hugo Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
+    <lastBuildDate>Fri, 22 Sep 2017 20:05:08 +0530</lastBuildDate>
+    
+	<atom:link href="https://sidmusa.github.io/wowmonkey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hey</title>
+      <link>https://sidmusa.github.io/wowmonkey/post/hey/</link>
+      <pubDate>Fri, 22 Sep 2017 20:05:08 +0530</pubDate>
+      
+      <guid>https://sidmusa.github.io/wowmonkey/post/hey/</guid>
+      <description>Hey, this is a hugo site.</description>
+    </item>
+    
+  </channel>
+</rss>
