@@ -1,0 +1,37 @@
+baseurl = "https://learnmonkey.netlify.com"
+title = "Hugo Themes"
+copyright = "Copyright (c) 2008 - 2014, all rights reserved."
+languageCode = "en-US"
+canonifyurls = true
+paginate = 3
+
+googleAnalytics = ""
+disqusShortname = ""
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+  name = "Posts"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tags"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/"
+
+[author]
+  name = "sidm"
+
+[params.meta]
+  keywords = ""
+  description = "Personal blog."
+
+[params]
+  email = "myemail"
+  github = "github id"
+  #gitlab = "gitlab id"
+  twitter = "twitter id"
+#linkedin = "linkedin id"
