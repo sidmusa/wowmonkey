@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sidmusa.github.io/wowmonkey/post/hey/</loc>
+    <loc>https://learnmonkey.netlify.com/post/hey/</loc>
     <lastmod>2017-09-22T20:05:08+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/wowmonkey/categories/</loc>
+    <loc>https://learnmonkey.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/wowmonkey/</loc>
-    <lastmod>2017-09-22T20:05:08+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sidmusa.github.io/wowmonkey/post/</loc>
+    <loc>https://learnmonkey.netlify.com/</loc>
     <lastmod>2017-09-22T20:05:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/wowmonkey/tags/</loc>
+    <loc>https://learnmonkey.netlify.com/post/</loc>
+    <lastmod>2017-09-22T20:05:08+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://learnmonkey.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
